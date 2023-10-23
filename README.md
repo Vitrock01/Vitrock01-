@@ -5,5 +5,6 @@ Hello World!
 
 •Nome: Vitor
 •Idade: 17 anos
+•Pronomes: ele, ela e elu
 •Local: Patrocinio, MG. Brasil
 
